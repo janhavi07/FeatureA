@@ -1,1 +1,3 @@
 Added the first line.
+a="Heyy" 
+echo $a
